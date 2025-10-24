@@ -6,3 +6,4 @@ This line was updated both locally and remotely successfully.
 
 Another remote line added.
 This is the first test line.
+Testing amend commit
